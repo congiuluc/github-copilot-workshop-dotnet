@@ -144,4 +144,4 @@ The database includes sample tasks:
 
 Your Task Management API is ready to use! Open the project in VS Code and begin exploring GitHub Copilot's powerful features with a real, working codebase.
 
-**Next Step**: Open [Phase 1: Code Completions](./phases/phase1-code-completions.md) and start the workshop! 🎉
+**Next Step**: Open [Phase 01: Code Completions](./phases/phase01-code-completions.md) and start the workshop! 🎉

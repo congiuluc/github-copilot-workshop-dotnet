@@ -1,7 +1,8 @@
-# 💡 Phase 6: Code Actions - Smart Fixes and Suggestions
+# 💡 Phase 06: Code Actions - Smart Fixes and Suggestions
+**🎯 GitHub Copilot Feature**: AI-powered quick fixes and intelligent improvements
 
-**Duration:** 35 minutes  
-**Copilot Feature:** [Code Actions and Quick Fixes](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 05](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%2005-lightgrey?style=flat-square)](phase05-code-brushes.md)
+
 
 ## 🎯 Objective
 
@@ -1112,12 +1113,15 @@ In this phase, you mastered:
 5. Test under load
 ```
 
+**💡 Pro Tip**: Code Actions are proactive suggestions that appear as light bulbs in your editor. They anticipate problems and offer solutions before you even ask!
+
 ## 🎯 Next Phase
 
-Ready for advanced code generation? In [Phase 7: Editor Completions](./phase7-editor-completions.md), you'll learn to build complete features with advanced multi-line suggestions! 🧠
+Ready for advanced code generation? In [Phase 07: Editor Completions](./phase07-editor-completions.md), you'll learn to build complete features with advanced multi-line suggestions! 🧠
 
 ---
 
 **🏆 Error Handling Expert!** You've learned to implement robust error handling and edge cases with intelligent Code Actions. Your applications will now be much more resilient! 💡
 
-[⬅️ Back to Phase 5](./phase5-code-brushes.md) | [⬅️ Back to Main Workshop](../README.md) | [➡️ Continue to Phase 7](./phase7-editor-completions.md)
+[![➡️ Next: Phase 07 - Editor Completions](https://img.shields.io/badge/➡️-Next%3A%20Phase%2007%20Editor%20Completions-green?style=flat-square)](phase07-editor-completions.md)
+

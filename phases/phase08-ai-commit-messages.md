@@ -1,7 +1,8 @@
-# 🚀 Phase 8: AI Commit Messages - Automated Git Workflow
+# 🚀 Phase 08: AI Commit Messages - Automated Git Workflow
+**🎯 GitHub Copilot Feature**: Intelligent Git workflow automation and descriptive commits
 
-**Duration:** 25 minutes  
-**Copilot Feature:** [AI-Powered Git Commit Messages](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 07](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%2007-lightgrey?style=flat-square)](phase07-editor-completions.md)
+
 
 ## 🎯 Objective
 
@@ -1442,12 +1443,15 @@ security: Security enhancements
 5. Include test updates
 ```
 
+**💡 Pro Tip**: Great commit messages tell a story of your code's evolution. Let Copilot help you write commits that future developers (including yourself) will thank you for!
+
 ## 🎯 Next Phase
 
-Ready for comprehensive testing strategies? In [Phase 9: Advanced Testing](./phase9-advanced-testing.md), you'll learn to generate and optimize complete test suites! 🧪
+Ready for comprehensive testing strategies? In [Phase 09: Advanced Testing](./phase09-advanced-testing.md), you'll learn to generate and optimize complete test suites! 🧪
 
 ---
 
-**🏆 Git Workflow Master!** You've learned to automate your Git workflow with intelligent AI-powered commit messages. Your project history will be much clearer! 🚀
+**🏆 Git Workflow Expert!** You've learned to automate your Git workflow with intelligent commit messages. Your project history will now be clear, meaningful, and professional! 🚀
 
-[⬅️ Back to Phase 7](./phase7-editor-completions.md) | [⬅️ Back to Main Workshop](../README.md) | [➡️ Continue to Phase 9](./phase9-advanced-testing.md)
+[![➡️ Next: Phase 09 - Advanced Testing](https://img.shields.io/badge/➡️-Next%3A%20Phase%2009%20Advanced%20Testing-green?style=flat-square)](phase09-advanced-testing.md)
+

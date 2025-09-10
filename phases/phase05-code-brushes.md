@@ -1,7 +1,8 @@
-# 🎨 Phase 5: Code Brushes - Selection-Based Improvements
+# 🎨 Phase 05: Code Brushes - Selection-Based Improvements
+**🎯 GitHub Copilot Feature**: Intelligent code refactoring and optimization
 
-**Duration:** 40 minutes  
-**Copilot Feature:** [Code Brushes and Selection-Based Editing](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 04](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%2004-lightgrey?style=flat-square)](phase04-slash-commands.md)
+
 
 ## 🎯 Objective
 
@@ -1022,12 +1023,15 @@ In this phase, you mastered:
 4. Testing Brush → Prevent regression
 ```
 
+**💡 Pro Tip**: Code Brushes work best with specific selections. Think of them as magical paintbrushes that can transform selected code with precision and purpose!
+
 ## 🎯 Next Phase
 
-Ready to implement smart fixes? In [Phase 6: Code Actions](./phase6-code-actions.md), you'll learn to handle errors and implement edge cases with intelligent suggestions! 💡
+Ready to implement smart fixes? In [Phase 06: Code Actions](./phase06-code-actions.md), you'll learn to handle errors and implement edge cases with intelligent suggestions! 💡
 
 ---
 
 **🏆 Refactoring Expert!** You've learned to use Code Brushes for intelligent, selection-based code improvements. These skills will help you maintain and enhance any codebase! 🎨
 
-[⬅️ Back to Phase 4](./phase4-slash-commands.md) | [⬅️ Back to Main Workshop](../README.md) | [➡️ Continue to Phase 6](./phase6-code-actions.md)
+[![➡️ Next: Phase 06 - Code Actions](https://img.shields.io/badge/➡️-Next%3A%20Phase%2006%20Code%20Actions-green?style=flat-square)](phase06-code-actions.md)
+

@@ -28,16 +28,16 @@ A **Task Management API** with the following features:
 
 | Phase | Feature | Duration | Description |
 |-------|---------|----------|-------------|
-| [🚀 Phase 1](./phases/phase1-code-completions.md) | **Code Completions** | 30 min | Create core model classes with intelligent autocomplete |
-| [💬 Phase 2](./phases/phase2-copilot-chat.md) | **Copilot Chat** | 45 min | Design architecture and get code reviews with AI assistant |
-| [⚡ Phase 3](./phases/phase3-inline-chat.md) | **Inline Chat** | 30 min | Enhance models with validation using context-aware editing |
-| [⚙️ Phase 4](./phases/phase4-slash-commands.md) | **Slash Commands** | 35 min | Generate service layer and interfaces with quick actions |
-| [🎨 Phase 5](./phases/phase5-code-brushes.md) | **Code Brushes** | 40 min | Refactor and optimize existing code with selection-based improvements |
-| [� Phase 6](./phases/phase6-code-actions.md) | **Code Actions** | 35 min | Implement error handling and edge cases with smart fixes |
-| [🧠 Phase 7](./phases/phase7-editor-completions.md) | **Editor Completions** | 45 min | Build complete features and APIs with advanced multi-line suggestions |
-| [� Phase 8](./phases/phase8-ai-commit-messages.md) | **AI Commit Messages** | 25 min | Version control with meaningful history using automated Git descriptions |
-| [🧪 Phase 9](./phases/phase9-advanced-testing.md) | **Advanced Testing** | 50 min | Comprehensive test suite with AI-generated tests |
-| [� Phase 10](./phases/phase10-documentation-diagrams.md) | **Documentation & Diagrams** | 40 min | Complete project documentation with auto-generated docs and Mermaid |
+| [🚀 Phase 01](./phases/phase01-code-completions.md) | **Code Completions** | 30 min | Create core model classes with intelligent autocomplete |
+| [💬 Phase 02](./phases/phase02-copilot-chat.md) | **Copilot Chat** | 45 min | Design architecture and get code reviews with AI assistant |
+| [⚡ Phase 03](./phases/phase03-inline-chat.md) | **Inline Chat** | 30 min | Enhance models with validation using context-aware editing |
+| [⚙️ Phase 04](./phases/phase04-slash-commands.md) | **Slash Commands** | 35 min | Generate service layer and interfaces with quick actions |
+| [🎨 Phase 05](./phases/phase05-code-brushes.md) | **Code Brushes** | 40 min | Refactor and optimize existing code with selection-based improvements |
+| [💡 Phase 6](./phases/phase06-code-actions.md) | **Code Actions** | 35 min | Implement error handling and edge cases with smart fixes |
+| [🧠 Phase 07](./phases/phase07-editor-completions.md) | **Editor Completions** | 45 min | Build complete features and APIs with advanced multi-line suggestions |
+| [🚀 Phase 08](./phases/phase08-ai-commit-messages.md) | **AI Commit Messages** | 25 min | Version control with meaningful history using automated Git descriptions |
+| [🧪 Phase 09](./phases/phase09-advanced-testing.md) | **Advanced Testing** | 50 min | Comprehensive test suite with AI-generated tests |
+| [📚 Phase 10](./phases/phase10-documentation-diagrams.md) | **Documentation & Diagrams** | 40 min | Complete project documentation with auto-generated docs and Mermaid |
 | [🤖 Phase 11](./phases/phase11-agent-mode.md) | **Agent Mode** | 45 min | Advanced features with autonomous AI agent development |
 
 ## 🎯 Learning Objectives
@@ -90,7 +90,7 @@ By completing this workshop, you will:
    - It should show "Copilot: Ready"
 
 3. **Start with Phase 1**
-   - Navigate to [Phase 1](./phases/phase1-code-completions.md)
+   - Navigate to [Phase 01](./phases/phase01-code-completions.md)
    - Follow the step-by-step instructions
 
 ## 📝 Workshop Tips
@@ -119,4 +119,4 @@ If you encounter any issues during the workshop:
 
 ---
 
-**Ready to revolutionize your .NET development with AI? Let's start with [Phase 1: Code Completions](./phases/phase1-code-completions.md)! 🚀**
+**Ready to revolutionize your .NET development with AI? Let's start with [Phase 01: Code Completions](./phases/phase01-code-completions.md)! 🚀**
