@@ -40,7 +40,7 @@ In this phase, you'll create:
 
 3. **Navigate to your workspace directory:**
    ```bash
-   cd "d:\Customers\customer\workshop_dotnet"
+   cd "c:\Repos\github-copilot-workshop-dotnet"
    ```
 
 4. **Create a new Web API project:**

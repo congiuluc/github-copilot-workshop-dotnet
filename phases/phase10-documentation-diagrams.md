@@ -35,20 +35,18 @@ In this phase, you'll generate:
 **Create documentation structure:**
 
 1. **Create documentation directories:**
-   ```powershell
-   # Create comprehensive documentation structure
-   New-Item -Path ".\docs" -ItemType Directory -Force
-   New-Item -Path ".\docs\api" -ItemType Directory -Force
-   New-Item -Path ".\docs\architecture" -ItemType Directory -Force
-   New-Item -Path ".\docs\guides" -ItemType Directory -Force
-   New-Item -Path ".\docs\diagrams" -ItemType Directory -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on the project root → New Folder → `docs`
+   - Right-click on `docs` → New Folder → `api`
+   - Right-click on `docs` → New Folder → `architecture` 
+   - Right-click on `docs` → New Folder → `guides`
+   - Right-click on `docs` → New Folder → `diagrams`
 
 2. **Configure XML documentation generation:**
-   ```powershell
-   # Update project file to generate XML documentation
-   code .\src\TaskManagement.API\TaskManagement.API.csproj
-   ```
+   
+   **Using VS Code Explorer:**
+   - Click on `src\TaskManagement.API\TaskManagement.API.csproj` to open it
 
 3. **Add XML documentation configuration:**
    ```xml
@@ -177,10 +175,9 @@ public class TaskController : ControllerBase
 **Generate comprehensive architecture diagrams:**
 
 1. **Create architecture documentation file:**
-   ```powershell
-   # Create architecture document with Mermaid diagrams
-   New-Item -Path ".\docs\architecture\system-architecture.md" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `docs\architecture` → New File → `system-architecture.md`
 
 2. **Use Copilot Chat to generate architecture diagrams:**
    ```

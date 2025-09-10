@@ -237,12 +237,14 @@ In this phase, you'll build:
 **Create comprehensive notification system:**
 
 1. **Create notification infrastructure:**
-   ```powershell
-   # Create notification directories and files
-   New-Item -Path ".\src\TaskManagement.API\Services\Notifications" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Hubs" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Interfaces\Notifications\INotificationService.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `src\TaskManagement.API` → New Folder → `Services`
+   - Right-click on `Services` → New Folder → `Notifications`
+   - Right-click on `src\TaskManagement.API` → New Folder → `Hubs`
+   - Right-click on `src\TaskManagement.API` → New Folder → `Interfaces`
+   - Right-click on `Interfaces` → New Folder → `Notifications`
+   - Right-click on `Notifications` → New File → `INotificationService.cs`
 
 2. **Guide Copilot with notification requirements:**
    ```csharp
@@ -267,10 +269,9 @@ In this phase, you'll build:
    - Create NotificationTemplateService for template management
 
 4. **Create SignalR Hub with Copilot:**
-   ```powershell
-   # Create SignalR hub file
-   New-Item -Path ".\src\TaskManagement.API\Hubs\NotificationHub.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `Hubs` folder → New File → `NotificationHub.cs`
 
 5. **Guide Copilot for SignalR implementation:**
    ```csharp
@@ -290,12 +291,13 @@ In this phase, you'll build:
 **Create comprehensive reporting system:**
 
 1. **Create reporting infrastructure:**
-   ```powershell
-   # Create reporting directories
-   New-Item -Path ".\src\TaskManagement.API\Services\Reporting" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Interfaces\Reporting\IReportingService.cs" -ItemType File -Force
-   New-Item -Path ".\src\TaskManagement.API\DTOs\Reporting" -ItemType Directory -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `Services` folder → New Folder → `Reporting`
+   - Right-click on `Interfaces` folder → New Folder → `Reporting`
+   - Right-click on `Interfaces\Reporting` → New File → `IReportingService.cs`
+   - Right-click on `src\TaskManagement.API` → New Folder → `DTOs`
+   - Right-click on `DTOs` → New Folder → `Reporting`
 
 2. **Guide Copilot with reporting requirements:**
    ```csharp
@@ -319,12 +321,11 @@ In this phase, you'll build:
    - Add caching and performance optimization methods
 
 4. **Create report models and DTOs:**
-   ```powershell
-   # Create specific report DTO files
-   New-Item -Path ".\src\TaskManagement.API\DTOs\Reporting\DashboardMetrics.cs" -ItemType File -Force
-   New-Item -Path ".\src\TaskManagement.API\DTOs\Reporting\ProductivityReport.cs" -ItemType File -Force
-   New-Item -Path ".\src\TaskManagement.API\DTOs\Reporting\TeamPerformance.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `DTOs\Reporting` → New File → `DashboardMetrics.cs`
+   - Right-click on `DTOs\Reporting` → New File → `ProductivityReport.cs`
+   - Right-click on `DTOs\Reporting` → New File → `TeamPerformance.cs`
 
 ---
 
@@ -384,11 +385,11 @@ In this phase, you'll build:
 **Create comprehensive performance monitoring:**
 
 1. **Create monitoring infrastructure:**
-   ```powershell
-   # Create monitoring services
-   New-Item -Path ".\src\TaskManagement.API\Services\Monitoring" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Interfaces\Monitoring\IPerformanceMonitor.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `Services` folder → New Folder → `Monitoring`
+   - Right-click on `Interfaces` folder → New Folder → `Monitoring`
+   - Right-click on `Interfaces\Monitoring` → New File → `IPerformanceMonitor.cs`
 
 2. **Guide Copilot for monitoring service:**
    ```csharp

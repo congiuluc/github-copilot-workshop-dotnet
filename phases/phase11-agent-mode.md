@@ -63,15 +63,14 @@ In this phase, you'll create:
    ```
 
 5. **Create project structure for agent mode development:**
-   ```powershell
-   # Create directories for agent-generated features
-   New-Item -Path ".\src\TaskManagement.API\Features\Dashboard" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Features\MultiTenant" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Features\Workflow" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Features\Recommendations" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Features\AuditLogging" -ItemType Directory -Force
-   New-Item -Path ".\src\TaskManagement.API\Features\Collaboration" -ItemType Directory -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `src\TaskManagement.API\Features` → New Folder → `Dashboard`
+   - Right-click on `src\TaskManagement.API\Features` → New Folder → `MultiTenant`
+   - Right-click on `src\TaskManagement.API\Features` → New Folder → `Workflow`
+   - Right-click on `src\TaskManagement.API\Features` → New Folder → `Recommendations`
+   - Right-click on `src\TaskManagement.API\Features` → New Folder → `AuditLogging`
+   - Right-click on `src\TaskManagement.API\Features` → New Folder → `Collaboration`
 
 ---
 

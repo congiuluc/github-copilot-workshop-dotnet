@@ -46,7 +46,7 @@ src/
 ### 1. **Open the Project**
 ```bash
 # Navigate to the workshop directory
-cd d:\Customers\customer\workshop_dotnet
+cd c:\Repos\github-copilot-workshop-dotnet
 
 # Open in VS Code
 code .

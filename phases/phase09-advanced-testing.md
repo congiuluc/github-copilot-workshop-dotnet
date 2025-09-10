@@ -40,7 +40,7 @@ In this phase, you'll build:
    - Open VS Code terminal (`Ctrl+` ` or View → Terminal)
    - Navigate to your workspace directory:
    ```bash
-   cd "d:\Customers\customer\workshop_dotnet"
+   cd "c:\Repos\github-copilot-workshop-dotnet"
    ```
    - Create test project:
    ```bash
@@ -1808,10 +1808,10 @@ public class TaskServiceAdvancedMockingTests
    ```
 
 4. **Create Coverage Script:**
-   ```powershell
-   # Create PowerShell script for coverage analysis
-   New-Item -Path ".\scripts\run-tests-with-coverage.ps1" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on project root → New Folder → `scripts` (if not exists)
+   - Right-click on `scripts` → New File → `run-tests-with-coverage.ps1`
 
 5. **Use Copilot Chat for Coverage Script:**
    ```
@@ -1853,11 +1853,10 @@ public class TaskServiceAdvancedMockingTests
 **Organize and document your test suite:**
 
 1. **Create Test Documentation:**
-   ```powershell
-   # Create test documentation
-   New-Item -Path ".\docs\testing-strategy.md" -ItemType File -Force
-   New-Item -Path ".\docs\test-conventions.md" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `docs` → New File → `testing-strategy.md`
+   - Right-click on `docs` → New File → `test-conventions.md`
 
 2. **Open Copilot Chat for Test Strategy Document:**
    ```

@@ -77,10 +77,10 @@ In this phase, you'll learn:
 **Let's create various types of changes to see AI commit messages in action:**
 
 1. **Feature Addition - Create a new feature:**
-   ```powershell
-   # Create a new feature file
-   New-Item -Path ".\src\TaskManagement.API\Features\TaskReminder.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `src\TaskManagement.API` → New Folder → `Features`
+   - Right-click on `Features` → New File → `TaskReminder.cs`
 
 2. **Add feature code with descriptive comments:**
    ```csharp
@@ -201,10 +201,10 @@ In this phase, you'll learn:
 **Create refactoring changes:**
 
 1. **Refactor existing code for better structure:**
-   ```powershell
-   # Create a new utility class for common operations
-   New-Item -Path ".\src\TaskManagement.API\Utils\ValidationHelper.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `src\TaskManagement.API` → New Folder → `Utils`
+   - Right-click on `Utils` → New File → `ValidationHelper.cs`
 
 2. **Extract validation logic to utility class:**
    ```csharp
@@ -413,10 +413,9 @@ In this phase, you'll learn:
 **Create performance improvements and tests:**
 
 1. **Add performance improvements:**
-   ```powershell
-   # Create performance optimization file
-   New-Item -Path ".\src\TaskManagement.API\Services\CacheService.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `Services` folder → New File → `CacheService.cs`
 
 2. **Implement caching for better performance:**
    ```csharp
@@ -455,10 +454,9 @@ In this phase, you'll learn:
    ```
 
 3. **Add unit tests:**
-   ```powershell
-   # Create test file for new features
-   New-Item -Path ".\tests\TaskManagement.API.Tests.Unit\Services\TaskReminderServiceTests.cs" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `tests\TaskManagement.API.Tests.Unit\Services` → New File → `TaskReminderServiceTests.cs`
 
 4. **Add comprehensive tests:**
    ```csharp
@@ -526,16 +524,15 @@ In this phase, you'll learn:
 **Set up automated commit workflows:**
 
 1. **Create Git hooks for AI commit messages:**
-   ```powershell
-   # Create Git hooks directory
-   New-Item -Path ".\.git\hooks" -ItemType Directory -Force -ErrorAction SilentlyContinue
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on project root → New Folder → `.git` (if not exists)
+   - Right-click on `.git` → New Folder → `hooks`
 
 2. **Create pre-commit hook script:**
-   ```powershell
-   # Create pre-commit hook file
-   New-Item -Path ".\.git\hooks\prepare-commit-msg" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on `.git\hooks` → New File → `prepare-commit-msg`
 
 3. **Add AI commit message automation:**
    ```bash
@@ -555,10 +552,9 @@ In this phase, you'll learn:
    ```
 
 4. **Configure conventional commit standards:**
-   ```powershell
-   # Create commitizen configuration
-   New-Item -Path ".\package.json" -ItemType File -Force
-   ```
+   
+   **Using VS Code Explorer:**
+   - Right-click on project root → New File → `package.json`
 
 5. **Add conventional commit configuration:**
    ```json
