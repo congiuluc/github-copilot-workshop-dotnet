@@ -32,7 +32,7 @@ A **Task Management API** with the following features:
 | [💬 Phase 02](./phases/phase02-copilot-chat.md) | **Copilot Chat** | 45 min | Design architecture and get code reviews with AI assistant |
 | [⚡ Phase 03](./phases/phase03-inline-chat.md) | **Inline Chat** | 30 min | Enhance models with validation using context-aware editing |
 | [⚙️ Phase 04](./phases/phase04-slash-commands.md) | **Slash Commands** | 35 min | Generate service layer and interfaces with quick actions |
-| [🎨 Phase 05](./phases/phase05-code-brushes.md) | **Code Brushes** | 40 min | Refactor and optimize existing code with selection-based improvements |
+| [🔍 Phase 05](./phases/phase05-code-review.md) | **Code Review** | 40 min | AI-powered code analysis and intelligent feedback for quality improvements |
 | [💡 Phase 6](./phases/phase06-code-actions.md) | **Code Actions** | 35 min | Implement error handling and edge cases with smart fixes |
 | [🧠 Phase 07](./phases/phase07-editor-completions.md) | **Editor Completions** | 45 min | Build complete features and APIs with advanced multi-line suggestions |
 | [🚀 Phase 08](./phases/phase08-ai-commit-messages.md) | **AI Commit Messages** | 25 min | Version control with meaningful history using automated Git descriptions |

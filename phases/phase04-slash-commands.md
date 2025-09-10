@@ -1050,11 +1050,11 @@ In this phase, you mastered:
 
 ## 🎯 Next Phase
 
-Ready to refactor like a pro? In [Phase 05: Code Brushes](./phase05-code-brushes.md), you'll learn selection-based improvements to refactor and optimize existing code! 🎨
+Ready to get AI-powered code reviews? In [Phase 05: Code Review](./phase05-code-review.md), you'll learn to leverage intelligent code analysis and feedback for better code quality! 🔍
 
 ---
 
 **🏆 Command Master!** You've learned to use slash commands for rapid, template-driven development. These commands dramatically speed up common development tasks! ⚙️
 
-[![➡️ Next: Phase 05 - Code Brushes](https://img.shields.io/badge/➡️-Next%3A%20Phase%2005%20Code%20Brushes-green?style=flat-square)](phase05-code-brushes.md)
+[![➡️ Next: Phase 05 - Code Review](https://img.shields.io/badge/➡️-Next%3A%20Phase%2005%20Code%20Review-green?style=flat-square)](phase05-code-review.md)
 

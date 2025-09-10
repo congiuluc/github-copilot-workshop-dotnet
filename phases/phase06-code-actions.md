@@ -1,7 +1,7 @@
 # 💡 Phase 06: Code Actions - Smart Fixes and Suggestions
 **🎯 GitHub Copilot Feature**: AI-powered quick fixes and intelligent improvements
 
-[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 05](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%2005-lightgrey?style=flat-square)](phase05-code-brushes.md)
+[![⬅️ Back to Workshop Home](https://img.shields.io/badge/⬅️-Back%20to%20Workshop%20Home-blue?style=flat-square)](../README.md) [![⬅️ Previous: Phase 05](https://img.shields.io/badge/⬅️-Previous%3A%20Phase%2005-lightgrey?style=flat-square)](phase05-code-review.md)
 
 
 ## 🎯 Objective
